@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/xentra-docs",
+  "packageVersion": "0.2.1",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/xentra-docs",
+  "usageRepository": "https://github.com/x12i-sdk/xentra",
+  "sourceRepository": "https://github.com/x12i/xentra",
+  "sourceCommit": "004372e6695509bf2e95d2e4e53d4534e81dd312",
+  "sourcePackageDirectory": "packages/xentra-docs",
+  "example": {
+    "title": "List the bundled guides and read a use case",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T12:58:49.227751+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "4439bc0c0a3b1c0e447420c3e6f9fff2ab446ad9d5452c3dded5f53b1d06b7bc",
+    "manifestSha256": "69f847c2b99707ed4c4904e836a429278d04e20542382e62652b219d069990d9"
+  },
+  "npmPackages": [
+    "@x12i/xentra-docs"
+  ],
+  "publisher": "x12i-publisher[bot]"
+}
